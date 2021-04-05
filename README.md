@@ -15,9 +15,9 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 * **Data Sources:** 
 [LoanStats_2019Q1.CSV](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.zip) 
 
-***Languages:** Python
-***Python Dependencies:** numpy, pandas, pathlib, collections, scikit-learn, imbalanced-learn
-***Tools:** MS Excel, Jupyter Notebook
+* **Languages:** Python
+* **Python Dependencies:** numpy, pandas, pathlib, collections, scikit-learn, imbalanced-learn
+* **Tools:** MS Excel, Jupyter Notebook
 
 
 ## Results
