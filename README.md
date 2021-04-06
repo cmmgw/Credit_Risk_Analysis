@@ -31,7 +31,12 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 6711 | 10393 |
 
 
-•	Balanced Accuracy
+* Balanced Accuracy Score: 65.03%
+* Precision High Risk: 1%
+* Precision Low Risk: 100%
+* Recall High Risk: 69% 
+* Recall Low Risk: 61%
+
 
 ### SMOTE Oversampling
 
@@ -41,6 +46,11 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 64 | 37 |
 | Actually False | 5291 | 11813 |
 
+* Balanced Accuracy Score: 66.21%
+* Precision High Risk: 1%
+* Precision Low Risk: 100%
+* Recall High Risk: 63% 
+* Recall Low Risk: 69%
 
 
 ### Cluster Centroids Undersampling 
@@ -51,6 +61,12 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 70 | 31 |
 | Actually False | 10340 | 6764 |
 
+* Balanced Accuracy Score: 54.42%
+* Precision High Risk: 1%
+* Precision Low Risk: 100%
+* Recall High Risk: 69% 
+* Recall Low Risk: 40%
+
 
 ### SMOTEENN Combination (Over and Under) Sampling
 
@@ -59,6 +75,12 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 |-------------|------|------|
 | Actually True | 72 | 29 |
 | Actually False | 7195 | 9909 |
+
+* Balanced Accuracy Score: 64.61%
+* Precision High Risk: 1%
+* Precision Low Risk: 100%
+* Recall High Risk: 71% 
+* Recall Low Risk: 58%
 
 
 ### Balanced Random Forest Classifier
@@ -69,6 +91,12 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 71 | 30 |
 | Actually False | 2153 | 14951 |
 
+* Balanced Accuracy Score: 78.85%
+* Precision High Risk: 3%
+* Precision Low Risk: 100%
+* Recall High Risk: 70% 
+* Recall Low Risk: 87%
+
 
 ### Easy Ensemble ADABoost Classifier  
 
@@ -78,6 +106,11 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 93 | 8 |
 | Actually False | 983 | 16121 |
 
+* Balanced Accuracy Score: 93.16%
+* Precision High Risk: 9%
+* Precision Low Risk: 100%
+* Recall High Risk: 92% 
+* Recall Low Risk: 94%
 
 
 ## Summary
