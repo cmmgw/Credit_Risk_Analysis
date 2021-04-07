@@ -131,7 +131,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 
 
 ## Summary
-Numerous machinelearning models were utilized to determine which model is the most effective atpredicting credit risk. Accuracy, precision and sensitivity can be assessed by reviewingthe results of each model. The confusion matrix, collates the results of accuracy,precision and sensitivity and can be calculated as follows: 
+Numerous machine learning models were utilized to determine which model is the most effective at predicting credit risk. Accuracy, precision and sensitivity can be assessed by reviewing the results of each model. The confusion matrix, collates the results of accuracy,precision and sensitivity and can be calculated as follows: 
 
 * Accuracy = (True Positives (TP) + True Negatives (TN)) / Total
 * Precision = Total Positives (TP) / (True Positives (TP) + False Positives (FP))
@@ -144,4 +144,4 @@ Numerous machinelearning models were utilized to determine which model is the mo
 | Actually False | FP | TN |
 
 
-The analysis highlighted above, indicates that the precisionscores for all the models are overfit. A good balance of recall and precisionis necessary to have an effective model and most of the models lack this. However,the Easy Ensemble ADABoost Classifier model is recommended for use, due to itshigh balanced accuracy score, along with its balance of precision and recall scores.
+The analysis highlighted above, indicates that the precision scores for all the models are overfit. A good balance of recall and precision is necessary to have an effective model and most of the models lack this. However, the Easy Ensemble ADABoost Classifier model is recommended for use, due to its high balanced accuracy score, along with its balance of precision and recall scores.
